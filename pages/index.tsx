@@ -21,19 +21,41 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>MawatuBajo - Mawatu Labuanbajo</title>
+        <title>
+          "MawatuBajo" Perfect Place for Your Future Business Investment
+        </title>
+        <meta
+          name="title"
+          content="MawatuBajo.. Perfect Place for Your Future Business Investment"
+        />
         <meta
           name="description"
-          content="Perfect Place for Your Future Business Investment"
+          content="THE NEW TOURISM TOWN IN The future hub for entertainment in Indonesia, Mawatu will be the go-to destination for the movement of those looking for a new location and new experience to live their best memories."
         />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta property="og:title" content="MawatuBajo - Mawatu at Labuanbajo" />
+
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://mawatubajo.com/" />
+        <meta
+          property="og:title"
+          content="MawatuBajo.. Perfect Place for Your Future Business Investment"
+        />
         <meta
           property="og:description"
           content="THE NEW TOURISM TOWN IN The future hub for entertainment in Indonesia, Mawatu will be the go-to destination for the movement of those looking for a new location and new experience to live their best memories."
         />
         <meta property="og:image" content="/img/linkbanner.png" />
-        <meta property="og:url" content="https://mawatubajo.com" />
+
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://mawatubajo.com/" />
+        <meta
+          property="twitter:title"
+          content="MawatuBajo/>/ Perfect Place for Your Future Business Investment"
+        />
+        <meta
+          property="twitter:description"
+          content="THE NEW TOURISM TOWN IN The future hub for entertainment in Indonesia, Mawatu will be the go-to destination for the movement of those looking for a new location and new experience to live their best memories."
+        />
+        <meta property="twitter:image" content="/img/linkbanner.png" />
         <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
       </Head>
 
